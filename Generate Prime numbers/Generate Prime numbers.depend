@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604828424 source:c:\study c\generate prime numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
