@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604844710 source:c:\study c\using pointers as parameters\main.c
+	<stdio.h>
+	<stdlib.h>
+
